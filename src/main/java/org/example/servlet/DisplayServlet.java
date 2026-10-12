@@ -103,7 +103,7 @@ public class DisplayServlet extends HttpServlet {
 
             out.println("<table>");
 
-            // Column headings
+            // Column headingsgit branch -M main
             out.println("<tr>");
 
             for (int i = 1; i <= columnCount; i++) {
